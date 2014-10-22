@@ -1,0 +1,3 @@
+module RemoteResource::Concerns
+
+end

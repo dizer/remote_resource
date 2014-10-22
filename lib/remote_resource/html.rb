@@ -1,0 +1,1 @@
+module RemoteResource::Html; end
