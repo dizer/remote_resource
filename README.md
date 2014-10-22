@@ -75,10 +75,10 @@ parse_date(string)     # Get date, uses chronic gem to parse complex dates
 
 #### Collections
 
-.find (and its alias .first) returns only first occurrence, meanwhile .all returns Array of all elements.
-```http://example.com/companies```:
+```.find``` (and its alias ```.first```) returns only first occurrence, meanwhile ```.all``` returns Array of all elements.
 
 ```html
+<!-- http://example.com/companies -->
 <html>
     <body>
         <div class="company">
